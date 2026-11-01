@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07040F"/>
+      <stop offset="0.55" stop-color="#0B0A1E"/>
+      <stop offset="1" stop-color="#12081F"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientTransform="translate(1050 40) rotate(120) scale(420 300)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4EA1FF" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#4EA1FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientTransform="translate(120 320) rotate(-40) scale(380 260)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF5252" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FF5252" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="360" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4EA1FF"/>
+      <stop offset="1" stop-color="#FF5252"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#glow1)"/>
+  <rect width="1280" height="320" fill="url(#glow2)"/>
+
+  <g opacity="0.10" stroke="#8FA9D8" stroke-width="1">
+    <path d="M0 80H1280"/><path d="M0 160H1280"/><path d="M0 240H1280"/>
+    <path d="M160 0V320"/><path d="M320 0V320"/><path d="M480 0V320"/>
+    <path d="M640 0V320"/><path d="M800 0V320"/><path d="M960 0V320"/>
+    <path d="M1120 0V320"/>
+  </g>
+
+  <rect x="80" y="86" width="86" height="6" rx="3" fill="url(#line)"/>
+
+  <text x="80" y="170" fill="#EAF2FF" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="3">WHYTUNES</text>
+
+  <text x="82" y="212" fill="#7FB3FF" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0.5">Telegram-боты под ключ</text>
+
+  <text x="82" y="244" fill="#9C8FBE" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" letter-spacing="1.2">ЗАЯВКИ · МАГАЗИНЫ · ЗАПИСЬ · MINI APP · CRM</text>
+
+  <g transform="translate(880 78)">
+    <rect x="0" y="0" width="320" height="164" rx="16" fill="#0A0716" stroke="#2A2350" stroke-width="1.5"/>
+    <circle cx="26" cy="26" r="5" fill="#FF5252"/>
+    <circle cx="46" cy="26" r="5" fill="#FFC857"/>
+    <circle cx="66" cy="26" r="5" fill="#4ED47A"/>
+    <path d="M0 48H320" stroke="#2A2350" stroke-width="1.5"/>
+    <text x="24" y="86" fill="#4EA1FF" font-family="'Cascadia Code', 'Consolas', monospace" font-size="17">$ whoami</text>
+    <text x="24" y="112" fill="#D8E4FF" font-family="'Cascadia Code', 'Consolas', monospace" font-size="17">whytunes</text>
+    <text x="24" y="140" fill="#4EA1FF" font-family="'Cascadia Code', 'Consolas', monospace" font-size="17">$ status</text>
+    <text x="112" y="140" fill="#4ED47A" font-family="'Cascadia Code', 'Consolas', monospace" font-size="17">online 24/7</text>
+  </g>
+
+  <text x="80" y="292" fill="#6F678C" font-family="'Segoe UI', Arial, sans-serif" font-size="15">whytunes.netlify.app · t.me/whytunes_bots</text>
+</svg>
