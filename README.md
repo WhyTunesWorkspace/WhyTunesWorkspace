@@ -19,14 +19,7 @@
 
 ### `> cat about.txt`
 
-```
-┌──────────────────────────────────────────┐
-│  🤖  продукт   боты под ключ             │
-│  ⚡  срок       от 3 дней                │
-│  💸  оплата    50/50 · карта РФ / СБП    │
-│  🌙  режим     работает, пока вы спите   │
-└──────────────────────────────────────────┘
-```
+<img src="./about.svg" alt="about" width="560">
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40whytunes-1a0b2e?style=for-the-badge&logo=telegram&logoColor=4ea1ff)](https://t.me/whytunes)
 [![Бот](https://img.shields.io/badge/Бот-%40WhyTunes__Bot-1a0b2e?style=for-the-badge&logo=telegram&logoColor=ff5252)](https://t.me/WhyTunes_Bot)
@@ -54,10 +47,11 @@
 ### `> stats --dark`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhyTunesWorkspace&show_icons=true&hide_border=true&bg_color=0D0014&title_color=4EA1FF&icon_color=FF5252&text_color=D1C4E9&rank_icon=github" alt="stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyTunesWorkspace&layout=compact&hide_border=true&bg_color=0D0014&title_color=4EA1FF&text_color=D1C4E9" alt="langs">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhyTunesWorkspace&theme=github_dark" alt="profile">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhyTunesWorkspace&hide_border=true&background=0D0014&ring=FF5252&fire=FF5252&currStreakLabel=4EA1FF&sideLabels=D1C4E9&currStreakNum=D1C4E9&sideNums=D1C4E9&dates=7E57C2" alt="streak">
+  <img src="https://streak-stats.demolab.com?user=WhyTunesWorkspace&hide_border=true&background=0D0014&ring=FF5252&fire=FF5252&currStreakLabel=4EA1FF&sideLabels=D1C4E9&currStreakNum=D1C4E9&sideNums=D1C4E9&dates=7E57C2" alt="streak">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=WhyTunesWorkspace&style=for-the-badge&color=4EA1FF&label=PROFILE+VIEWS" alt="views">
 </div>
 
 ---

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="212" viewBox="0 0 560 212" fill="none">
+  <defs>
+    <linearGradient id="edge2" x1="0" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4EA1FF"/>
+      <stop offset="1" stop-color="#FF5252"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="558" height="210" rx="16" fill="#0A0716" stroke="url(#edge2)" stroke-opacity="0.45" stroke-width="1.5"/>
+
+  <text x="26" y="36" fill="#6F678C" font-family="'Cascadia Code', 'Consolas', monospace" font-size="13">┌ about.txt ─────────────────────────────┐</text>
+
+  <text x="30" y="70" fill="#4EA1FF" font-family="'Cascadia Code', 'Consolas', monospace" font-size="16">продукт</text>
+  <text x="190" y="70" fill="#D8E4FF" font-family="'Segoe UI', Arial, sans-serif" font-size="16">Telegram-боты под ключ</text>
+
+  <text x="30" y="102" fill="#4EA1FF" font-family="'Cascadia Code', 'Consolas', monospace" font-size="16">срок</text>
+  <text x="190" y="102" fill="#D8E4FF" font-family="'Segoe UI', Arial, sans-serif" font-size="16">от 3 дней</text>
+
+  <text x="30" y="134" fill="#4EA1FF" font-family="'Cascadia Code', 'Consolas', monospace" font-size="16">оплата</text>
+  <text x="190" y="134" fill="#D8E4FF" font-family="'Segoe UI', Arial, sans-serif" font-size="16">50/50 · карта РФ или СБП</text>
+
+  <text x="30" y="166" fill="#4EA1FF" font-family="'Cascadia Code', 'Consolas', monospace" font-size="16">режим</text>
+  <text x="190" y="166" fill="#D8E4FF" font-family="'Segoe UI', Arial, sans-serif" font-size="16">работает, пока вы спите</text>
+
+  <text x="26" y="196" fill="#6F678C" font-family="'Cascadia Code', 'Consolas', monospace" font-size="13">└────────────────────────────────────────┘</text>
+</svg>
